@@ -6,11 +6,11 @@ This project analyzes demographic data from the U.S. Census Bureau's "Adult" dat
 ## Overview
 The Demographic Data Analyzer reads census data, processes it using Pandas, and calculates several statistics, including:
 
-Race distribution.
-Average age of men.
-Percentages of education levels among individuals earning >50K.
-Minimum work hours and income distribution.
-Top earning countries and occupations
+**Race distribution.
+**Average age of men.
+**Percentages of education levels among individuals earning >50K.
+**Minimum work hours and income distribution.
+**Top earning countries and occupations
 
 🌟 Features
 
